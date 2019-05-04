@@ -33,6 +33,7 @@ function getRepositories(username) {
   return new Promise((resolve, reject) => {
     setTimeout(() => {
       console.log("Calling GitHub API...");
+      
       // resolve(["repo1", "repo2", "repo3"]);
       reject(new Error("Error Message"));
     }, 2000);
