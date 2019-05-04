@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "ajay thanki",
   "license": "ISC",
   "keywords": [],
   "description": "",
@@ -22,5 +22,13 @@
   },
   "devDependencies": {
     "jshint": "^2.10.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajaythanki/node_practice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ajaythanki/node_practice/issues"
+  },
+  "homepage": "https://github.com/ajaythanki/node_practice#readme"
 }
